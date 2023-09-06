@@ -258,3 +258,4 @@ console.log((new D(2019, 6, 30, 3, 4, 5)).when()); // Approx. 4 years ago (given
 console.log((new D()).when());                      // today
 console.log((new D(2023, 7, 16, 14, 45, 30)).when());  // Approx. 6 hours 34 minutes from now (considering 1:11pm MST or 8:11pm UTC current time)
 
+module.exports = D;

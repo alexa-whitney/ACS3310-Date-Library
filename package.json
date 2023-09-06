@@ -1,13 +1,13 @@
 {
   "name": "ticktalk",
   "version": "1.0.0",
-  "description": "",
+  "description": "TickTlk is a date library for handling and formatting dates with customizable output patterns, along with calculating time differences from the current date.",
   "main": "src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "keywords": [],
-  "author": "",
+  "author": "Alexa Whitney",
   "license": "ISC",
   "devDependencies": {
     "jest": "^29.6.4"
