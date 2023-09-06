@@ -1,6 +1,6 @@
 # TickTalk.js 🕰️💬
-[![npm version](https://img.shields.io/npm/v/string-o-matic.svg)](https://www.npmjs.com/package/string-o-matic)
-[![npm downloads](https://img.shields.io/npm/dt/string-o-matic.svg)](https://www.npmjs.com/package/string-o-matic)
+[![npm version](https://img.shields.io/npm/v/ticktalk.svg)](https://www.npmjs.com/package/ticktalk)
+[![npm downloads](https://img.shields.io/npm/dt/ticktalk.svg)](https://www.npmjs.com/package/ticktalk)
 [![GitHub license](https://img.shields.io/github/license/alexa-whitney/ACS3310-Date-Library.svg)](https://github.com/alexa-whitney/ACS3310-Date-Library/blob/master/LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/alexa-whitney/ACS3310-Date-Library.svg)](https://github.com/alexa-whitney/ACS3310-Date-Library/issues)
 
