@@ -1,4 +1,13 @@
 # TickTalk.js 🕰️💬
+[![npm version](https://img.shields.io/npm/v/string-o-matic.svg)](https://www.npmjs.com/package/string-o-matic)
+[![npm downloads](https://img.shields.io/npm/dt/string-o-matic.svg)](https://www.npmjs.com/package/string-o-matic)
+![npm bundle size](https://img.shields.io/bundlephobia/:format/:ticktalk)]
+
+[![GitHub license](https://img.shields.io/github/license/alexa-whitney/ACS3310-Date-Library.svg)](https://github.com/alexa-whitney/ACS3310-Date-Library/blob/master/LICENSE)
+
+[![GitHub issues](https://img.shields.io/github/issues/alexa-whitney/ACS3310-Date-Library.svg)](https://github.com/alexa-whitney/ACS3310-Date-Library/issues)
+
+
 
 Hello, time-traveler! Welcome to **TickTalk.js**, where we're always up for a *date night* with your code. Want to manage your dates without the dread? Let's **talk ticks!** 🗓️
 

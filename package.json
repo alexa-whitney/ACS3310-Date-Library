@@ -1,7 +1,7 @@
 {
   "name": "ticktalk",
   "version": "1.0.0",
-  "description": "TickTlk is a date library for handling and formatting dates with customizable output patterns, along with calculating time differences from the current date.",
+  "description": "TickTalk is a date library for handling and formatting dates with customizable output patterns, along with calculating time differences from the current date.",
   "main": "src/index.js",
   "scripts": {
     "test": "jest"
